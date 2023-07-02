@@ -1,0 +1,17 @@
+/Users/jeremy/Desktop/DOTNET/Manga/Application/bin/Debug/net7.0/Application.deps.json
+/Users/jeremy/Desktop/DOTNET/Manga/Application/bin/Debug/net7.0/Application.dll
+/Users/jeremy/Desktop/DOTNET/Manga/Application/bin/Debug/net7.0/Application.pdb
+/Users/jeremy/Desktop/DOTNET/Manga/Application/bin/Debug/net7.0/Domain.dll
+/Users/jeremy/Desktop/DOTNET/Manga/Application/bin/Debug/net7.0/Persistence.dll
+/Users/jeremy/Desktop/DOTNET/Manga/Application/bin/Debug/net7.0/Domain.pdb
+/Users/jeremy/Desktop/DOTNET/Manga/Application/bin/Debug/net7.0/Persistence.pdb
+/Users/jeremy/Desktop/DOTNET/Manga/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/jeremy/Desktop/DOTNET/Manga/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremy/Desktop/DOTNET/Manga/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/jeremy/Desktop/DOTNET/Manga/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/jeremy/Desktop/DOTNET/Manga/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/jeremy/Desktop/DOTNET/Manga/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/jeremy/Desktop/DOTNET/Manga/Application/obj/Debug/net7.0/Application.dll
+/Users/jeremy/Desktop/DOTNET/Manga/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/jeremy/Desktop/DOTNET/Manga/Application/obj/Debug/net7.0/Application.pdb
+/Users/jeremy/Desktop/DOTNET/Manga/Application/obj/Debug/net7.0/ref/Application.dll

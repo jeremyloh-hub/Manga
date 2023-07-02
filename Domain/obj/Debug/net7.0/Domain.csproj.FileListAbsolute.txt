@@ -1,0 +1,12 @@
+/Users/jeremy/Desktop/DOTNET/Manga/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/jeremy/Desktop/DOTNET/Manga/Domain/bin/Debug/net7.0/Domain.dll
+/Users/jeremy/Desktop/DOTNET/Manga/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/jeremy/Desktop/DOTNET/Manga/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/jeremy/Desktop/DOTNET/Manga/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremy/Desktop/DOTNET/Manga/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/jeremy/Desktop/DOTNET/Manga/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/jeremy/Desktop/DOTNET/Manga/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/jeremy/Desktop/DOTNET/Manga/Domain/obj/Debug/net7.0/Domain.dll
+/Users/jeremy/Desktop/DOTNET/Manga/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/jeremy/Desktop/DOTNET/Manga/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/jeremy/Desktop/DOTNET/Manga/Domain/obj/Debug/net7.0/ref/Domain.dll

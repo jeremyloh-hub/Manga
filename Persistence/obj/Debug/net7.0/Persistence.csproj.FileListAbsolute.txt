@@ -1,0 +1,15 @@
+/Users/jeremy/Desktop/DOTNET/Manga/Persistence/bin/Debug/net7.0/Persistence.deps.json
+/Users/jeremy/Desktop/DOTNET/Manga/Persistence/bin/Debug/net7.0/Persistence.dll
+/Users/jeremy/Desktop/DOTNET/Manga/Persistence/bin/Debug/net7.0/Persistence.pdb
+/Users/jeremy/Desktop/DOTNET/Manga/Persistence/bin/Debug/net7.0/Domain.dll
+/Users/jeremy/Desktop/DOTNET/Manga/Persistence/bin/Debug/net7.0/Domain.pdb
+/Users/jeremy/Desktop/DOTNET/Manga/Persistence/obj/Debug/net7.0/Persistence.csproj.AssemblyReference.cache
+/Users/jeremy/Desktop/DOTNET/Manga/Persistence/obj/Debug/net7.0/Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremy/Desktop/DOTNET/Manga/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfoInputs.cache
+/Users/jeremy/Desktop/DOTNET/Manga/Persistence/obj/Debug/net7.0/Persistence.AssemblyInfo.cs
+/Users/jeremy/Desktop/DOTNET/Manga/Persistence/obj/Debug/net7.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/jeremy/Desktop/DOTNET/Manga/Persistence/obj/Debug/net7.0/Persistence.csproj.CopyComplete
+/Users/jeremy/Desktop/DOTNET/Manga/Persistence/obj/Debug/net7.0/Persistence.dll
+/Users/jeremy/Desktop/DOTNET/Manga/Persistence/obj/Debug/net7.0/refint/Persistence.dll
+/Users/jeremy/Desktop/DOTNET/Manga/Persistence/obj/Debug/net7.0/Persistence.pdb
+/Users/jeremy/Desktop/DOTNET/Manga/Persistence/obj/Debug/net7.0/ref/Persistence.dll
