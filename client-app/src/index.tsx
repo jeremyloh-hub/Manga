@@ -1,16 +1,17 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import App from "./App/App";
 import reportWebVitals from "./reportWebVitals";
 import "daisyui/dist/full.css";
 import { StoreContext, store } from "./App/stores/store";
+import { RouterProvider } from "react-router-dom";
+import { router } from "./App/router/routes";
 
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
 );
 root.render(
   <StoreContext.Provider value={store}>
-    <App />
+    <RouterProvider router={router} />
   </StoreContext.Provider>
 );
 

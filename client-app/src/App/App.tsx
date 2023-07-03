@@ -1,12 +1,11 @@
 import React from "react";
 import "./App.css";
-
-import Homepage from "../Homepage/Homepage";
+import { Outlet } from "react-router-dom";
 
 function App() {
   return (
     <>
-      <Homepage />
+      <Outlet />
     </>
   );
 }
